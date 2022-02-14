@@ -1,1 +1,1 @@
-# BRACU_CSE370-Database_Systems
+These are my Lab Assignment files with solution of Brac University's Computer Science & Engineering departmental core course CSE370 known as Database Systems. These Lab assignments are given during Spring'2022 Semester for the course work.
